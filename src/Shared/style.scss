@@ -1,0 +1,253 @@
+.route {
+    background-color: rgb(0,128,0);
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 102px;
+    .h-logo {
+        width: 80px;
+        height: 70%;
+        margin: 0 1%;
+        margin-bottom: 28px;
+    }
+    .module1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 6%;
+        height: 76px;
+        margin-right: 1%;
+        padding: 0.6% 0.6%;
+        text-decoration: none;
+        text-align: center;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        border-radius: 15px;
+        &:hover {
+            background-color: rgb(0,100,0);
+        }
+        .icon-1 {
+            width: 100%;
+            height: 50%;
+        }
+    }
+    .module2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 6%;
+        height: 76px;
+        margin-right: 1%;
+        padding: 0.6% 0.6%;
+        text-decoration: none;
+        text-align: center;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        border-radius: 15px;
+        &:hover {
+            background-color: rgb(0,100,0);
+        }
+        .icon-2 {
+            width: 100%;
+            height: 50%;
+        }
+    }
+    .module3 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 6%;
+        height: 76px;
+        margin-right: 1%;
+        padding: 0.6% 0.6%;
+        text-decoration: none;
+        text-align: center;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        border-radius: 15px;
+        &:hover {
+            background-color: rgb(0,100,0);
+        }
+        .icon-3 {
+            width: 100%;
+            height: 50%;
+        }
+    }
+    .module4 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 6%;
+        height: 76px;
+        margin-right: 1%;
+        padding: 0.6% 0.6%;
+        text-decoration: none;
+        text-align: center;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        border-radius: 15px;
+        &:hover {
+            background-color: rgb(0,100,0);
+        }
+        .icon-4 {
+            width: 100%;
+            height: 50%;
+        }
+    }
+    .module5 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 6%;
+        height: 76px;
+        margin-right: 1%;
+        padding: 0.6% 0.6%;
+        text-decoration: none;
+        text-align: center;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        border-radius: 15px;
+        &:hover {
+            background-color: rgb(0,100,0);
+        }
+        .icon-5 {
+            width: 100%;
+            height: 50%;
+        }
+    }
+    .module6 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 6%;
+        height: 76px;
+        margin-right: 1%;
+        padding: 0.6% 0.6%;
+        text-decoration: none;
+        text-align: center;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        border-radius: 15px;
+        &:hover {
+            background-color: rgb(0,100,0);
+        }
+        .icon-6 {
+            width: 100%;
+            height: 50%;
+        }
+    }
+    .module7 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 6%;
+        height: 76px;
+        margin-right: 1%;
+        padding: 0.6% 0.6%;
+        text-decoration: none;
+        text-align: center;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        border-radius: 15px;
+        &:hover {
+            background-color: rgb(0,100,0);
+        }
+        .icon-7 {
+            width: 100%;
+            height: 50%;
+        }
+    }
+    .module8 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 6%;
+        height: 76px;
+        margin-right: 1%;
+        padding: 0.6% 0.6%;
+        text-decoration: none;
+        text-align: center;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        border-radius: 15px;
+        &:hover {
+            background-color: rgb(0,100,0);
+        }
+        .icon-8 {
+            width: 100%;
+            height: 50%;
+        }
+    }
+    .module9 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 6%;
+        height: 76px;
+        margin-right: 1%;
+        padding: 0.6% 0.6%;
+        text-decoration: none;
+        text-align: center;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        border-radius: 15px;
+        &:hover {
+            background-color: rgb(0,100,0);
+        }
+        .icon-9 {
+            width: 100%;
+            height: 50%;
+        }
+        .arrow {
+            color: white;
+        }
+    }
+    .module10 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 6%;
+        height: 76px;
+        margin-right: 1%;
+        padding: 0.6% 0.6%;
+        text-decoration: none;
+        text-align: center;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        border-radius: 15px;
+        &:hover {
+            background-color: rgb(0,100,0);
+        }
+        .icon-10 {
+            width: 100%;
+            height: 50%;
+        }
+        .arrow {
+            color: white;
+        }
+    }
+    .module11 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 10%;
+        height: 76px;
+        margin-right: 1%;
+        padding: 0.6% 0.6%;
+        text-decoration: none;
+        text-align: center;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        border-radius: 15px;
+        &:hover {
+            background-color: rgb(0,100,0);
+        }
+        .icon-11 {
+            width: 100%;
+            height: 50%;
+        }
+        .arrow {
+            color: white;
+        }
+    }
+}

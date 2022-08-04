@@ -1,0 +1,21 @@
+.area {
+    margin: 10px 3px;
+    max-width: 100%;
+}
+textarea {
+    width: 98.5%;
+    resize: vertical;
+    font-size: 15px;
+    padding-left: 1%;
+}
+.desform {
+    .desform1 {
+        &-title {
+            display: flex;
+            &-select {
+                margin-left: 43.5%;
+                width: 280px;
+            }
+        }
+    }
+}

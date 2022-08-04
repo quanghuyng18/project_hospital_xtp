@@ -1,0 +1,27 @@
+.Xray{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial;
+}
+.XrayForm-1{
+    width: 63%;
+    margin: 2% 2%;
+}
+.XrayForm-2{
+    border-radius: 10px;
+    background: #f4f6f9;
+    width: 31%;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+.form {
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px -5px rgba(0, 0, 0, 0.004), 0px 2px 2px 0px rgba(0, 0, 0, 0.048), 0px 1px 5px 0px rgba(0, 0, 0, 0.536);
+    line-height: 1.25;
+    padding: 1% 1%;
+    margin-bottom: 2%;
+}
+.forms {
+    margin: 2% 2%;
+}
